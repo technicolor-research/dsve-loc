@@ -1,6 +1,6 @@
 # Deep semantic-visual embedding with localization
 
-Training and evalutation code for the paper [Finding beans in burgers: Deep semantic-visual embedding with localization](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3272.pdf) 
+Training and evaluation code for the paper [Finding beans in burgers: Deep semantic-visual embedding with localization](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3272.pdf) 
 
 <img src="./data/fig.jpg" width="800">
 
